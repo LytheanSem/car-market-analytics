@@ -27,6 +27,6 @@ This Car Analytics Application is a React-based project designed to provide deta
 
 ![Highlighted Cars](pictures/highlights.png)
 
-Team Members:
-Name: Lythean Sem, ID: 6511925
+Team Members:<br>
+Name: Lythean Sem, ID: 6511925<br>
 Name: Myat Shoon Lei, ID: 6511333
