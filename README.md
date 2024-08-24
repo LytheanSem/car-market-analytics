@@ -30,7 +30,3 @@ This Car Analytics Application is a React-based project designed to provide deta
 Team Members:
 Name: Lythean Sem, ID: 6511925
 Name: Myat Shoon Lei, ID: 6511333
-
-NOTES:
-
-Data being used is taladrod-cars.json
