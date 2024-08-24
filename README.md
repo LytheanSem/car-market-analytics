@@ -1,4 +1,4 @@
-# Car Analytics Application
+# Car Analytics
 
 ## Description
 
